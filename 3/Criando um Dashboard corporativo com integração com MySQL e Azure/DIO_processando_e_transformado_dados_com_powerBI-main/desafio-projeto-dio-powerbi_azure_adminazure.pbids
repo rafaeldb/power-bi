@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"mysql","address":{"server":"desafio-projeto-dio-powerbi.mysql.database.azure.com","database":"azure_adminazure"}},"options":{"ReturnSingleDatabase":true}}]}

@@ -1,0 +1,3 @@
+## Desafio Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
+
+Este desafio tem como propósito desenvolver a aplicabilidade dos conhecimentos difundidos do Bootcamp de Power BI da DIO, onde aprofundar e solidificar o conhecimento gerado em um curto período de tempo, é de suma importância de realizar diversas atividades utilizando todas as ferramentas utilizadas no aprendizado. Fica como dica para os que estão buscando evoluir no uso do Power BI, não deixem de estudar e fazer diversos relatórios usando as sample como guia de referência, explorando principalmente as funções DAX.

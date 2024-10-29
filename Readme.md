@@ -4,7 +4,6 @@
 - **Descrição:** Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.
 
 - **Arquivos:** `Financial Sample PBI.pbix, desafio1.pdf`
-- [**Dashboard - online**]
 
 <br/>
 
@@ -20,7 +19,7 @@
 ### Projeto 3: Processando e Transformando Dados com Power BI
 
 - **Descrição:** Criar uma base de dados com o Banco de Dados MySQL, fazer a conexão com o Power BI, processar e tratar os dados, criar uma visualização simples.
-- **Arquivos:** `desafio3-projeto-dio-powerbi_azure_adminazure.pbids`
+- **Arquivos:** `desafio3.pbids`
 
 ## Módulo 4: Modelagem de Dados com Power BI
 ### Projeto 4.1.: Criando um Star Schema para Cenários de Vendas com Power BI

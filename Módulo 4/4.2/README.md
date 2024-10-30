@@ -7,3 +7,4 @@ Para desenvolver esta atividade do desafio foi construído além das tabelas con
 
 ![Relacionamento Star Schema do Desafio Modelagem e Transformação com DAX]()
 Desafio Modelagem e Transformação com DAX.png
+https://github.com/rafaeldb/power-bi/blob/main/M%C3%B3dulo%204/4.2/Desafio%20Modelagem%20e%20Transforma%C3%A7%C3%A3o%20com%20DAX.png

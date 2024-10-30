@@ -5,6 +5,4 @@ Outro ponto que deve ser observado para que se mantenha a fluidez do relatório 
 Para desenvolver esta atividade do desafio foi construído além das tabelas convencionais a tabela **d_Calendário** no formato **DAX** para dar granulariadade e temporalidade ao processo de extração de dados. 
 
 
-![Relacionamento Star Schema do Desafio Modelagem e Transformação com DAX]()
-Desafio Modelagem e Transformação com DAX.png
-https://github.com/rafaeldb/power-bi/blob/main/M%C3%B3dulo%204/4.2/Desafio%20Modelagem%20e%20Transforma%C3%A7%C3%A3o%20com%20DAX.png
+![Relacionamento Star Schema do Desafio Modelagem e Transformação com DAX](Desafio Modelagem e Transformação com DAX.png)

@@ -6,3 +6,5 @@ Para desenvolver esta atividade do desafio foi construído além das tabelas con
 
 
 ![Relacionamento Star Schema do Desafio Modelagem e Transformação com DAX](Desafio Modelagem e Transformação com DAX.png)
+
+![modelo](Desafio Modelagem e Transformação com DAX.png)
